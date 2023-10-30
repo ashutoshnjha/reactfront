@@ -1,0 +1,12 @@
+
+1) nvm use 18
+Now using node v18.18.2 (npm v9.8.1)
+Create React app
+2) npx create-react-app reactfront
+3) cd reactfront
+4) npm install 
+5) npm start
+
+Connecting the React Client to the Express API
+1) 
+2) Failed to load resource: net::ERR_FAILED => enable cors in API
